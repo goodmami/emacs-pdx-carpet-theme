@@ -39,7 +39,7 @@
        (bg4 "#494949")
        (builtin "#466bc2")
        (keyword "#208983")
-       (const   "#d4d4d4")
+       (const   "#466bc2")
        (comment "#808080")
        (func    "#8866c3")
        (str     "#a3353e")

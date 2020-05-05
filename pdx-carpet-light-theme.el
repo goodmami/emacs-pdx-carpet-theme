@@ -1,6 +1,6 @@
 ;;; pdx-carpet-light-theme.el --- Theme 
 
-;; Copyright (C) 2020 , Michael Wayne Goodman
+;; Copyright (C) 2016 , Michael Wayne Goodman
 
 ;; Author: Michael Wayne Goodman
 ;; Version: 0.1
@@ -39,7 +39,7 @@
        (bg4 "#b5b5b5")
        (builtin "#466bc2")
        (keyword "#208983")
-       (const   "#101010")
+       (const   "#466bc2")
        (comment "#808080")
        (func    "#8866c3")
        (str     "#a3353e")
